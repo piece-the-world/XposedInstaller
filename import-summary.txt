@@ -1,0 +1,286 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .gitattributes
+* .gitignore
+* .gradle/
+* .gradle/3.2/
+* .gradle/3.2/taskArtifacts/
+* .gradle/3.2/taskArtifacts/fileHashes.bin
+* .gradle/3.2/taskArtifacts/fileSnapshots.bin
+* .gradle/3.2/taskArtifacts/taskArtifacts.bin
+* .gradle/3.2/taskArtifacts/taskArtifacts.lock
+* .idea/
+* .idea/checkstyle-idea.xml
+* .idea/compiler.xml
+* .idea/copyright/
+* .idea/copyright/profiles_settings.xml
+* .idea/encodings.xml
+* .idea/markdown-navigator/
+* .idea/markdown-navigator/profiles_settings.xml
+* .idea/misc.xml
+* .idea/workspace.xml
+* NOTICE.txt
+* app/
+* app/build.gradle
+* app/build/
+* app/build/outputs/
+* app/build/outputs/apk/
+* app/build/outputs/apk/debug/
+* app/build/outputs/apk/debug/XposedInstaller_3.1.5-debug.apk
+* app/libs/
+* app/libs/StickyListHeaders-d7f6fc.jar
+* app/libs/android-support-v13.jar
+* app/libs/libsuperuser-185868.jar
+* app/lint.xml
+* app/proguard-project.txt
+* app/src/
+* app/src/main/
+* app/src/main/AndroidManifest.xml
+* app/src/main/assets/
+* app/src/main/assets/Xposed-Disabler-Recovery.zip
+* app/src/main/assets/Xposed-Installer-Recovery.zip
+* app/src/main/assets/XposedBridge.jar
+* app/src/main/assets/arm/
+* app/src/main/assets/arm/app_process_xposed_sdk15
+* app/src/main/assets/arm/app_process_xposed_sdk16
+* app/src/main/assets/arm/busybox-xposed
+* app/src/main/assets/x86/
+* app/src/main/assets/x86/app_process_xposed_sdk15
+* app/src/main/assets/x86/app_process_xposed_sdk16
+* app/src/main/assets/x86/busybox-xposed
+* app/src/main/java/
+* app/src/main/java/de/
+* app/src/main/java/de/robv/
+* app/src/main/java/de/robv/android/
+* app/src/main/java/de/robv/android/xposed/
+* app/src/main/java/de/robv/android/xposed/installer/
+* app/src/main/java/de/robv/android/xposed/installer/AboutFragment.java
+* app/src/main/java/de/robv/android/xposed/installer/DownloadDetailsActivity.java
+* app/src/main/java/de/robv/android/xposed/installer/DownloadDetailsFragment.java
+* app/src/main/java/de/robv/android/xposed/installer/DownloadDetailsSettingsFragment.java
+* app/src/main/java/de/robv/android/xposed/installer/DownloadDetailsVersionsFragment.java
+* app/src/main/java/de/robv/android/xposed/installer/DownloadFragment.java
+* app/src/main/java/de/robv/android/xposed/installer/DownloadReceiver.java
+* app/src/main/java/de/robv/android/xposed/installer/InstallerFragment.java
+* app/src/main/java/de/robv/android/xposed/installer/LogsFragment.java
+* app/src/main/java/de/robv/android/xposed/installer/ModulesFragment.java
+* app/src/main/java/de/robv/android/xposed/installer/PackageChangeReceiver.java
+* app/src/main/java/de/robv/android/xposed/installer/SettingsFragment.java
+* app/src/main/java/de/robv/android/xposed/installer/WelcomeActivity.java
+* app/src/main/java/de/robv/android/xposed/installer/XposedApp.java
+* app/src/main/java/de/robv/android/xposed/installer/XposedBaseActivity.java
+* app/src/main/java/de/robv/android/xposed/installer/XposedDropdownNavActivity.java
+* app/src/main/java/de/robv/android/xposed/installer/XposedInstallerActivity.java
+* app/src/main/java/de/robv/android/xposed/installer/repo/
+* app/src/main/java/de/robv/android/xposed/installer/repo/Module.java
+* app/src/main/java/de/robv/android/xposed/installer/repo/ModuleVersion.java
+* app/src/main/java/de/robv/android/xposed/installer/repo/ReleaseType.java
+* app/src/main/java/de/robv/android/xposed/installer/repo/RepoDb.java
+* app/src/main/java/de/robv/android/xposed/installer/repo/RepoDbDefinitions.java
+* app/src/main/java/de/robv/android/xposed/installer/repo/RepoParser.java
+* app/src/main/java/de/robv/android/xposed/installer/repo/Repository.java
+* app/src/main/java/de/robv/android/xposed/installer/util/
+* app/src/main/java/de/robv/android/xposed/installer/util/AssetUtil.java
+* app/src/main/java/de/robv/android/xposed/installer/util/DownloadsUtil.java
+* app/src/main/java/de/robv/android/xposed/installer/util/HashUtil.java
+* app/src/main/java/de/robv/android/xposed/installer/util/ModuleUtil.java
+* app/src/main/java/de/robv/android/xposed/installer/util/NavUtil.java
+* app/src/main/java/de/robv/android/xposed/installer/util/NotificationUtil.java
+* app/src/main/java/de/robv/android/xposed/installer/util/PrefixedSharedPreferences.java
+* app/src/main/java/de/robv/android/xposed/installer/util/RepoLoader.java
+* app/src/main/java/de/robv/android/xposed/installer/util/RootUtil.java
+* app/src/main/java/de/robv/android/xposed/installer/util/ThemeUtil.java
+* app/src/main/java/de/robv/android/xposed/installer/widget/
+* app/src/main/java/de/robv/android/xposed/installer/widget/DownloadView.java
+* app/src/main/java/de/robv/android/xposed/installer/widget/IntegerListPreference.java
+* app/src/main/java/de/robv/android/xposed/installer/widget/ListPreferenceSummaryFix.java
+* app/src/main/res/
+* app/src/main/res/anim/
+* app/src/main/res/anim/slide_in_left.xml
+* app/src/main/res/anim/slide_in_right.xml
+* app/src/main/res/anim/slide_out_left.xml
+* app/src/main/res/anim/slide_out_right.xml
+* app/src/main/res/drawable-hdpi/
+* app/src/main/res/drawable-hdpi/ic_launcher.png
+* app/src/main/res/drawable-hdpi/ic_menu_refresh.png
+* app/src/main/res/drawable-hdpi/ic_notification.png
+* app/src/main/res/drawable-ldpi/
+* app/src/main/res/drawable-ldpi/ic_launcher.png
+* app/src/main/res/drawable-ldpi/ic_menu_refresh.png
+* app/src/main/res/drawable-ldpi/ic_notification.png
+* app/src/main/res/drawable-mdpi/
+* app/src/main/res/drawable-mdpi/ic_launcher.png
+* app/src/main/res/drawable-mdpi/ic_menu_refresh.png
+* app/src/main/res/drawable-mdpi/ic_notification.png
+* app/src/main/res/drawable-xhdpi/
+* app/src/main/res/drawable-xhdpi/ic_launcher.png
+* app/src/main/res/drawable-xhdpi/ic_menu_refresh.png
+* app/src/main/res/drawable-xhdpi/ic_notification.png
+* app/src/main/res/drawable-xxhdpi/
+* app/src/main/res/drawable-xxhdpi/ic_launcher.png
+* app/src/main/res/drawable-xxhdpi/ic_menu_refresh.png
+* app/src/main/res/drawable-xxhdpi/ic_notification.png
+* app/src/main/res/drawable/
+* app/src/main/res/drawable/background_card_black.xml
+* app/src/main/res/drawable/background_card_dark.xml
+* app/src/main/res/drawable/background_card_light.xml
+* app/src/main/res/drawable/background_card_normal_black.xml
+* app/src/main/res/drawable/background_card_normal_dark.xml
+* app/src/main/res/drawable/background_card_normal_light.xml
+* app/src/main/res/drawable/background_card_pressed_black.xml
+* app/src/main/res/drawable/background_card_pressed_dark.xml
+* app/src/main/res/drawable/background_card_pressed_light.xml
+* app/src/main/res/layout/
+* app/src/main/res/layout/activity_download_details.xml
+* app/src/main/res/layout/activity_download_details_not_found.xml
+* app/src/main/res/layout/activity_welcome.xml
+* app/src/main/res/layout/dialog_install_warning.xml
+* app/src/main/res/layout/download_details.xml
+* app/src/main/res/layout/download_moreinfo.xml
+* app/src/main/res/layout/download_view.xml
+* app/src/main/res/layout/list_item_download.xml
+* app/src/main/res/layout/list_item_module.xml
+* app/src/main/res/layout/list_item_version.xml
+* app/src/main/res/layout/list_item_welcome.xml
+* app/src/main/res/layout/list_sticky_header_download.xml
+* app/src/main/res/layout/tab_about.xml
+* app/src/main/res/layout/tab_downloader.xml
+* app/src/main/res/layout/tab_installer.xml
+* app/src/main/res/layout/tab_logs.xml
+* app/src/main/res/layout/xposed_not_active_note.xml
+* app/src/main/res/menu/
+* app/src/main/res/menu/context_menu_modules.xml
+* app/src/main/res/menu/menu_download.xml
+* app/src/main/res/menu/menu_download_details.xml
+* app/src/main/res/menu/menu_logs.xml
+* app/src/main/res/values-ar/
+* app/src/main/res/values-ar/strings.xml
+* app/src/main/res/values-az/
+* app/src/main/res/values-az/strings.xml
+* app/src/main/res/values-bg/
+* app/src/main/res/values-bg/strings.xml
+* app/src/main/res/values-ca/
+* app/src/main/res/values-ca/strings.xml
+* app/src/main/res/values-cs/
+* app/src/main/res/values-cs/strings.xml
+* app/src/main/res/values-de/
+* app/src/main/res/values-de/strings.xml
+* app/src/main/res/values-el/
+* app/src/main/res/values-el/strings.xml
+* app/src/main/res/values-es/
+* app/src/main/res/values-es/strings.xml
+* app/src/main/res/values-fr/
+* app/src/main/res/values-fr/strings.xml
+* app/src/main/res/values-gl/
+* app/src/main/res/values-gl/strings.xml
+* app/src/main/res/values-hi/
+* app/src/main/res/values-hi/strings.xml
+* app/src/main/res/values-hu/
+* app/src/main/res/values-hu/strings.xml
+* app/src/main/res/values-id/
+* app/src/main/res/values-id/strings.xml
+* app/src/main/res/values-it/
+* app/src/main/res/values-it/strings.xml
+* app/src/main/res/values-iw/
+* app/src/main/res/values-iw/strings.xml
+* app/src/main/res/values-ja/
+* app/src/main/res/values-ja/strings.xml
+* app/src/main/res/values-ko/
+* app/src/main/res/values-ko/strings.xml
+* app/src/main/res/values-ms/
+* app/src/main/res/values-ms/strings.xml
+* app/src/main/res/values-nb/
+* app/src/main/res/values-nb/strings.xml
+* app/src/main/res/values-nl/
+* app/src/main/res/values-nl/strings.xml
+* app/src/main/res/values-pl/
+* app/src/main/res/values-pl/strings.xml
+* app/src/main/res/values-pt-rBR/
+* app/src/main/res/values-pt-rBR/strings.xml
+* app/src/main/res/values-ro/
+* app/src/main/res/values-ro/strings.xml
+* app/src/main/res/values-ru/
+* app/src/main/res/values-ru/strings.xml
+* app/src/main/res/values-sk/
+* app/src/main/res/values-sk/strings.xml
+* app/src/main/res/values-sr/
+* app/src/main/res/values-sr/strings.xml
+* app/src/main/res/values-sv/
+* app/src/main/res/values-sv/strings.xml
+* app/src/main/res/values-th/
+* app/src/main/res/values-th/strings.xml
+* app/src/main/res/values-tr/
+* app/src/main/res/values-tr/strings.xml
+* app/src/main/res/values-uk/
+* app/src/main/res/values-uk/strings.xml
+* app/src/main/res/values-vi/
+* app/src/main/res/values-vi/strings.xml
+* app/src/main/res/values-zh-rCN/
+* app/src/main/res/values-zh-rCN/strings.xml
+* app/src/main/res/values-zh-rTW/
+* app/src/main/res/values-zh-rTW/strings.xml
+* app/src/main/res/values/
+* app/src/main/res/values/arrays.xml
+* app/src/main/res/values/attrs.xml
+* app/src/main/res/values/colors.xml
+* app/src/main/res/values/donottranslate.xml
+* app/src/main/res/values/strings.xml
+* app/src/main/res/values/styles.xml
+* app/src/main/res/xml/
+* app/src/main/res/xml/module_prefs.xml
+* app/src/main/res/xml/prefs.xml
+* build.gradle
+* gradle/
+* gradle/wrapper/
+* gradle/wrapper/gradle-wrapper.jar
+* gradle/wrapper/gradle-wrapper.properties
+* gradlew
+* gradlew.bat
+* lib/
+* lib/AndroidHiddenAPI.jar
+* logo.ai
+* logo.png
+* logo_transparent.png
+* settings.gradle
+* tools/
+* tools/sign.bat
+* tools/signapk.jar
+* tools/testkey.pk8
+* tools/testkey.x509.pem
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app/src/main/AndroidManifest.xml
+* assets/ => app/src/main/assets/
+* libs/StickyListHeaders-d7f6fc.jar => app/libs/StickyListHeaders-d7f6fc.jar
+* libs/android-support-v13.jar => app/libs/android-support-v13.jar
+* libs/libsuperuser-185868.jar => app/libs/libsuperuser-185868.jar
+* lint.xml => app/lint.xml
+* proguard-project.txt => app/proguard-project.txt
+* res/ => app/src/main/res/
+* src/ => app/src/main/java/
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

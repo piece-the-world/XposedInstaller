@@ -1,0 +1,3180 @@
+[
+    {
+        "outputFile": "/Users/taochao/WeChat/XposedInstaller/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-tr/values-tr.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 201,
+                    "endOffset": 252
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 163,
+                        "startColumn": 4,
+                        "startOffset": 12994,
+                        "endColumn": 201,
+                        "endOffset": 13191
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 257,
+                    "endColumn": 70,
+                    "endOffset": 323
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 162,
+                        "startColumn": 4,
+                        "startOffset": 12923,
+                        "endColumn": 70,
+                        "endOffset": 12989
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 328,
+                    "endColumn": 130,
+                    "endOffset": 454
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 164,
+                        "startColumn": 4,
+                        "startOffset": 13196,
+                        "endColumn": 130,
+                        "endOffset": 13322
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 459,
+                    "endColumn": 74,
+                    "endOffset": 529
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 171,
+                        "startColumn": 4,
+                        "startOffset": 13834,
+                        "endColumn": 74,
+                        "endOffset": 13904
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 534,
+                    "endColumn": 59,
+                    "endOffset": 589
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 168,
+                        "startColumn": 4,
+                        "startOffset": 13501,
+                        "endColumn": 59,
+                        "endOffset": 13556
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 594,
+                    "endColumn": 66,
+                    "endOffset": 656
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 169,
+                        "startColumn": 4,
+                        "startOffset": 13561,
+                        "endColumn": 66,
+                        "endOffset": 13623
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 661,
+                    "endColumn": 205,
+                    "endOffset": 862
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 170,
+                        "startColumn": 4,
+                        "startOffset": 13628,
+                        "endColumn": 205,
+                        "endOffset": 13829
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 867,
+                    "endColumn": 60,
+                    "endOffset": 923
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 165,
+                        "startColumn": 4,
+                        "startOffset": 13327,
+                        "endColumn": 60,
+                        "endOffset": 13383
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 928,
+                    "endColumn": 64,
+                    "endOffset": 988
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 167,
+                        "startColumn": 4,
+                        "startOffset": 13436,
+                        "endColumn": 64,
+                        "endOffset": 13496
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 993,
+                    "endColumn": 77,
+                    "endOffset": 1066
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 78,
+                        "startColumn": 4,
+                        "startOffset": 6517,
+                        "endColumn": 77,
+                        "endOffset": 6590
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1071,
+                    "endColumn": 51,
+                    "endOffset": 1118
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 2280,
+                        "endColumn": 51,
+                        "endOffset": 2327
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1123,
+                    "endColumn": 111,
+                    "endOffset": 1230
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 2776,
+                        "endColumn": 111,
+                        "endOffset": 2883
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1235,
+                    "endColumn": 50,
+                    "endOffset": 1281
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 98,
+                        "startColumn": 4,
+                        "startOffset": 8095,
+                        "endColumn": 50,
+                        "endOffset": 8141
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1286,
+                    "endColumn": 66,
+                    "endOffset": 1348
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 3567,
+                        "endColumn": 66,
+                        "endOffset": 3629
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1353,
+                    "endColumn": 54,
+                    "endOffset": 1403
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 109,
+                        "startColumn": 4,
+                        "startOffset": 8853,
+                        "endColumn": 54,
+                        "endOffset": 8903
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1408,
+                    "endColumn": 86,
+                    "endOffset": 1490
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 185,
+                        "startColumn": 4,
+                        "startOffset": 14620,
+                        "endColumn": 86,
+                        "endOffset": 14702
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1495,
+                    "endColumn": 101,
+                    "endOffset": 1592
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 126,
+                        "startColumn": 4,
+                        "startOffset": 10104,
+                        "endColumn": 101,
+                        "endOffset": 10201
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1597,
+                    "endColumn": 70,
+                    "endOffset": 1663
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 99,
+                        "startColumn": 4,
+                        "startOffset": 8146,
+                        "endColumn": 70,
+                        "endOffset": 8212
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1668,
+                    "endColumn": 66,
+                    "endOffset": 1730
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 101,
+                        "startColumn": 4,
+                        "startOffset": 8288,
+                        "endColumn": 66,
+                        "endOffset": 8350
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1735,
+                    "endColumn": 70,
+                    "endOffset": 1801
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 100,
+                        "startColumn": 4,
+                        "startOffset": 8217,
+                        "endColumn": 70,
+                        "endOffset": 8283
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1806,
+                    "endColumn": 110,
+                    "endOffset": 1912
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 187,
+                        "startColumn": 4,
+                        "startOffset": 14814,
+                        "endColumn": 110,
+                        "endOffset": 14920
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1917,
+                    "endColumn": 106,
+                    "endOffset": 2019
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 184,
+                        "startColumn": 4,
+                        "startOffset": 14513,
+                        "endColumn": 106,
+                        "endOffset": 14615
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2024,
+                    "endColumn": 106,
+                    "endOffset": 2126
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 186,
+                        "startColumn": 4,
+                        "startOffset": 14707,
+                        "endColumn": 106,
+                        "endOffset": 14809
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2131,
+                    "endColumn": 81,
+                    "endOffset": 2208
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 127,
+                        "startColumn": 4,
+                        "startOffset": 10206,
+                        "endColumn": 81,
+                        "endOffset": 10283
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2213,
+                    "endColumn": 60,
+                    "endOffset": 2269
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 122,
+                        "startColumn": 4,
+                        "startOffset": 9854,
+                        "endColumn": 60,
+                        "endOffset": 9910
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2274,
+                    "endColumn": 59,
+                    "endOffset": 2329
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 124,
+                        "startColumn": 4,
+                        "startOffset": 9973,
+                        "endColumn": 59,
+                        "endOffset": 10028
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2334,
+                    "endColumn": 57,
+                    "endOffset": 2387
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 123,
+                        "startColumn": 4,
+                        "startOffset": 9915,
+                        "endColumn": 57,
+                        "endOffset": 9968
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2392,
+                    "endColumn": 64,
+                    "endOffset": 2452
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 118,
+                        "startColumn": 4,
+                        "startOffset": 9554,
+                        "endColumn": 64,
+                        "endOffset": 9614
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2457,
+                    "endColumn": 74,
+                    "endOffset": 2527
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 120,
+                        "startColumn": 4,
+                        "startOffset": 9699,
+                        "endColumn": 74,
+                        "endOffset": 9769
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 2532,
+                    "endColumn": 79,
+                    "endOffset": 2607
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 121,
+                        "startColumn": 4,
+                        "startOffset": 9774,
+                        "endColumn": 79,
+                        "endOffset": 9849
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 2612,
+                    "endColumn": 70,
+                    "endOffset": 2678
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 125,
+                        "startColumn": 4,
+                        "startOffset": 10033,
+                        "endColumn": 70,
+                        "endOffset": 10099
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 2683,
+                    "endColumn": 79,
+                    "endOffset": 2758
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 119,
+                        "startColumn": 4,
+                        "startOffset": 9619,
+                        "endColumn": 79,
+                        "endOffset": 9694
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 2763,
+                    "endColumn": 74,
+                    "endOffset": 2833
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 117,
+                        "startColumn": 4,
+                        "startOffset": 9479,
+                        "endColumn": 74,
+                        "endOffset": 9549
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 2838,
+                    "endColumn": 70,
+                    "endOffset": 2904
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 115,
+                        "startColumn": 4,
+                        "startOffset": 9326,
+                        "endColumn": 70,
+                        "endOffset": 9392
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 2909,
+                    "endColumn": 66,
+                    "endOffset": 2971
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 114,
+                        "startColumn": 4,
+                        "startOffset": 9259,
+                        "endColumn": 66,
+                        "endOffset": 9321
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 2976,
+                    "endColumn": 81,
+                    "endOffset": 3053
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 116,
+                        "startColumn": 4,
+                        "startOffset": 9397,
+                        "endColumn": 81,
+                        "endOffset": 9474
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 3058,
+                    "endColumn": 77,
+                    "endOffset": 3131
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 111,
+                        "startColumn": 4,
+                        "startOffset": 8979,
+                        "endColumn": 77,
+                        "endOffset": 9052
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 3136,
+                    "endColumn": 106,
+                    "endOffset": 3238
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 112,
+                        "startColumn": 4,
+                        "startOffset": 9057,
+                        "endColumn": 106,
+                        "endOffset": 9159
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 3243,
+                    "endColumn": 155,
+                    "endOffset": 3394
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 128,
+                        "startColumn": 4,
+                        "startOffset": 10288,
+                        "endColumn": 155,
+                        "endOffset": 10439
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 3399,
+                    "endColumn": 94,
+                    "endOffset": 3489
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 113,
+                        "startColumn": 4,
+                        "startOffset": 9164,
+                        "endColumn": 94,
+                        "endOffset": 9254
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 3494,
+                    "endColumn": 70,
+                    "endOffset": 3560
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 110,
+                        "startColumn": 4,
+                        "startOffset": 8908,
+                        "endColumn": 70,
+                        "endOffset": 8974
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 3565,
+                    "endColumn": 54,
+                    "endOffset": 3615
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 176,
+                        "startColumn": 4,
+                        "startOffset": 14049,
+                        "endColumn": 54,
+                        "endOffset": 14099
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 3620,
+                    "endColumn": 56,
+                    "endOffset": 3672
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 174,
+                        "startColumn": 4,
+                        "startOffset": 13936,
+                        "endColumn": 56,
+                        "endOffset": 13988
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 3677,
+                    "endColumn": 80,
+                    "endOffset": 3753
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 181,
+                        "startColumn": 4,
+                        "startOffset": 14404,
+                        "endColumn": 80,
+                        "endOffset": 14480
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 3758,
+                    "endColumn": 55,
+                    "endOffset": 3809
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 175,
+                        "startColumn": 4,
+                        "startOffset": 13993,
+                        "endColumn": 55,
+                        "endOffset": 14044
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 3814,
+                    "endColumn": 71,
+                    "endOffset": 3881
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 177,
+                        "startColumn": 4,
+                        "startOffset": 14104,
+                        "endColumn": 71,
+                        "endOffset": 14171
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 3886,
+                    "endColumn": 88,
+                    "endOffset": 3970
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 178,
+                        "startColumn": 4,
+                        "startOffset": 14176,
+                        "endColumn": 88,
+                        "endOffset": 14260
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 3975,
+                    "endColumn": 71,
+                    "endOffset": 4042
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 180,
+                        "startColumn": 4,
+                        "startOffset": 14332,
+                        "endColumn": 71,
+                        "endOffset": 14399
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 4047,
+                    "endColumn": 66,
+                    "endOffset": 4109
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 179,
+                        "startColumn": 4,
+                        "startOffset": 14265,
+                        "endColumn": 66,
+                        "endOffset": 14327
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 4114,
+                    "endColumn": 80,
+                    "endOffset": 4190
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 4,
+                        "startOffset": 4941,
+                        "endColumn": 80,
+                        "endOffset": 5017
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 4195,
+                    "endColumn": 74,
+                    "endOffset": 4265
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 4,
+                        "startOffset": 5096,
+                        "endColumn": 74,
+                        "endOffset": 5166
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 4270,
+                    "endColumn": 73,
+                    "endOffset": 4339
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 5022,
+                        "endColumn": 73,
+                        "endOffset": 5091
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 4344,
+                    "endColumn": 72,
+                    "endOffset": 4412
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 4,
+                        "startOffset": 5247,
+                        "endColumn": 72,
+                        "endOffset": 5315
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 4417,
+                    "endColumn": 75,
+                    "endOffset": 4488
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 5171,
+                        "endColumn": 75,
+                        "endOffset": 5242
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 4493,
+                    "endColumn": 70,
+                    "endOffset": 4559
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 4,
+                        "startOffset": 5384,
+                        "endColumn": 70,
+                        "endOffset": 5450
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 4564,
+                    "endColumn": 57,
+                    "endOffset": 4617
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 5320,
+                        "endColumn": 63,
+                        "endOffset": 5379
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 4622,
+                    "endColumn": 83,
+                    "endOffset": 4701
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 70,
+                        "startColumn": 4,
+                        "startOffset": 5879,
+                        "endColumn": 83,
+                        "endOffset": 5958
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 4706,
+                    "endColumn": 76,
+                    "endOffset": 4778
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 69,
+                        "startColumn": 4,
+                        "startOffset": 5796,
+                        "endColumn": 82,
+                        "endOffset": 5874
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 4783,
+                    "endColumn": 110,
+                    "endOffset": 4889
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 73,
+                        "startColumn": 4,
+                        "startOffset": 6192,
+                        "endColumn": 110,
+                        "endOffset": 6298
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 4894,
+                    "endColumn": 69,
+                    "endOffset": 4959
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 4618,
+                        "endColumn": 69,
+                        "endOffset": 4683
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 4964,
+                    "endColumn": 82,
+                    "endOffset": 5042
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 4,
+                        "startOffset": 4767,
+                        "endColumn": 82,
+                        "endOffset": 4845
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 5047,
+                    "endColumn": 72,
+                    "endOffset": 5115
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 4688,
+                        "endColumn": 78,
+                        "endOffset": 4762
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 5120,
+                    "endColumn": 68,
+                    "endOffset": 5184
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 4,
+                        "startOffset": 5455,
+                        "endColumn": 68,
+                        "endOffset": 5519
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 5189,
+                    "endColumn": 62,
+                    "endOffset": 5247
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 4,
+                        "startOffset": 5733,
+                        "endColumn": 62,
+                        "endOffset": 5791
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 5252,
+                    "endColumn": 55,
+                    "endOffset": 5303
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 4,
+                        "startOffset": 5671,
+                        "endColumn": 61,
+                        "endOffset": 5728
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 5308,
+                    "endColumn": 74,
+                    "endOffset": 5378
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 4,
+                        "startOffset": 5596,
+                        "endColumn": 74,
+                        "endOffset": 5666
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 5383,
+                    "endColumn": 71,
+                    "endOffset": 5450
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 65,
+                        "startColumn": 4,
+                        "startOffset": 5524,
+                        "endColumn": 71,
+                        "endOffset": 5591
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 5455,
+                    "endColumn": 84,
+                    "endOffset": 5535
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 4850,
+                        "endColumn": 90,
+                        "endOffset": 4936
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 5540,
+                    "endColumn": 80,
+                    "endOffset": 5616
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 71,
+                        "startColumn": 4,
+                        "startOffset": 5963,
+                        "endColumn": 86,
+                        "endOffset": 6045
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 5621,
+                    "endColumn": 141,
+                    "endOffset": 5758
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 4,
+                        "startOffset": 6050,
+                        "endColumn": 141,
+                        "endOffset": 6187
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 5763,
+                    "endColumn": 50,
+                    "endOffset": 5809
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1856,
+                        "endColumn": 50,
+                        "endOffset": 1902
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 5814,
+                    "endColumn": 64,
+                    "endOffset": 5874
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 2104,
+                        "endColumn": 64,
+                        "endOffset": 2164
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 5879,
+                    "endColumn": 212,
+                    "endOffset": 6087
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 3634,
+                        "endColumn": 212,
+                        "endOffset": 3842
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 6092,
+                    "endColumn": 89,
+                    "endOffset": 6177
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 133,
+                        "startColumn": 4,
+                        "startOffset": 10598,
+                        "endColumn": 89,
+                        "endOffset": 10683
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 6182,
+                    "endColumn": 87,
+                    "endOffset": 6265
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 134,
+                        "startColumn": 4,
+                        "startOffset": 10688,
+                        "endColumn": 87,
+                        "endOffset": 10771
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 6270,
+                    "endColumn": 106,
+                    "endOffset": 6372
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 135,
+                        "startColumn": 4,
+                        "startOffset": 10776,
+                        "endColumn": 106,
+                        "endOffset": 10878
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 6377,
+                    "endColumn": 238,
+                    "endOffset": 6611
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 3847,
+                        "endColumn": 238,
+                        "endOffset": 4081
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 6616,
+                    "endColumn": 307,
+                    "endOffset": 6919
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 3259,
+                        "endColumn": 307,
+                        "endOffset": 3562
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 6924,
+                    "endColumn": 64,
+                    "endOffset": 6984
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 3194,
+                        "endColumn": 64,
+                        "endOffset": 3254
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 6989,
+                    "endColumn": 50,
+                    "endOffset": 7035
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1952,
+                        "endColumn": 50,
+                        "endOffset": 1998
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 7040,
+                    "endColumn": 50,
+                    "endOffset": 7086
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 2003,
+                        "endColumn": 50,
+                        "endOffset": 2049
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 7091,
+                    "endColumn": 54,
+                    "endOffset": 7141
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 159,
+                        "startColumn": 4,
+                        "startOffset": 12844,
+                        "endColumn": 54,
+                        "endOffset": 12894
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 7146,
+                    "endColumn": 102,
+                    "endOffset": 7244
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 155,
+                        "startColumn": 4,
+                        "startOffset": 12534,
+                        "endColumn": 102,
+                        "endOffset": 12632
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 7249,
+                    "endColumn": 71,
+                    "endOffset": 7316
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 158,
+                        "startColumn": 4,
+                        "startOffset": 12772,
+                        "endColumn": 71,
+                        "endOffset": 12839
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 7321,
+                    "endColumn": 73,
+                    "endOffset": 7390
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 157,
+                        "startColumn": 4,
+                        "startOffset": 12698,
+                        "endColumn": 73,
+                        "endOffset": 12767
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 7395,
+                    "endColumn": 69,
+                    "endOffset": 7460
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 152,
+                        "startColumn": 4,
+                        "startOffset": 12294,
+                        "endColumn": 69,
+                        "endOffset": 12359
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 7465,
+                    "endColumn": 79,
+                    "endOffset": 7540
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 153,
+                        "startColumn": 4,
+                        "startOffset": 12364,
+                        "endColumn": 79,
+                        "endOffset": 12439
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 7545,
+                    "endColumn": 99,
+                    "endOffset": 7640
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 2888,
+                        "endColumn": 99,
+                        "endOffset": 2983
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 7645,
+                    "endColumn": 60,
+                    "endOffset": 7701
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 156,
+                        "startColumn": 4,
+                        "startOffset": 12637,
+                        "endColumn": 60,
+                        "endOffset": 12693
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 7706,
+                    "endColumn": 45,
+                    "endOffset": 7747
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 97,
+                        "startColumn": 4,
+                        "startOffset": 8049,
+                        "endColumn": 45,
+                        "endOffset": 8090
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 7752,
+                    "endColumn": 56,
+                    "endOffset": 7804
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 137,
+                        "endColumn": 56,
+                        "endOffset": 189
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 7809,
+                    "endColumn": 44,
+                    "endOffset": 7849
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 96,
+                        "startColumn": 4,
+                        "startOffset": 8004,
+                        "endColumn": 44,
+                        "endOffset": 8044
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 7854,
+                    "endColumn": 43,
+                    "endOffset": 7893
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 93,
+                        "endColumn": 43,
+                        "endOffset": 132
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 7898,
+                    "endColumn": 75,
+                    "endOffset": 7969
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 79,
+                        "startColumn": 4,
+                        "startOffset": 6595,
+                        "endColumn": 75,
+                        "endOffset": 6666
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 7974,
+                    "endColumn": 57,
+                    "endOffset": 8027
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 92,
+                        "startColumn": 4,
+                        "startOffset": 7867,
+                        "endColumn": 57,
+                        "endOffset": 7920
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 8032,
+                    "endColumn": 66,
+                    "endOffset": 8094
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 90,
+                        "startColumn": 4,
+                        "startOffset": 7750,
+                        "endColumn": 66,
+                        "endOffset": 7812
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 8099,
+                    "endColumn": 74,
+                    "endOffset": 8169
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 80,
+                        "startColumn": 4,
+                        "startOffset": 6671,
+                        "endColumn": 74,
+                        "endOffset": 6741
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 99,
+                    "startColumn": 4,
+                    "startOffset": 8174,
+                    "endColumn": 87,
+                    "endOffset": 8257
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 76,
+                        "startColumn": 4,
+                        "startOffset": 6329,
+                        "endColumn": 87,
+                        "endOffset": 6412
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 8262,
+                    "endColumn": 99,
+                    "endOffset": 8357
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 77,
+                        "startColumn": 4,
+                        "startOffset": 6417,
+                        "endColumn": 99,
+                        "endOffset": 6512
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 8362,
+                    "endColumn": 51,
+                    "endOffset": 8409
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 89,
+                        "startColumn": 4,
+                        "startOffset": 7698,
+                        "endColumn": 51,
+                        "endOffset": 7745
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 8414,
+                    "endColumn": 82,
+                    "endOffset": 8492
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 81,
+                        "startColumn": 4,
+                        "startOffset": 6746,
+                        "endColumn": 82,
+                        "endOffset": 6824
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 8497,
+                    "endColumn": 49,
+                    "endOffset": 8542
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 91,
+                        "startColumn": 4,
+                        "startOffset": 7817,
+                        "endColumn": 49,
+                        "endOffset": 7862
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 8547,
+                    "endColumn": 51,
+                    "endOffset": 8594
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 93,
+                        "startColumn": 4,
+                        "startOffset": 7925,
+                        "endColumn": 51,
+                        "endOffset": 7972
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 105,
+                    "startColumn": 4,
+                    "startOffset": 8599,
+                    "endColumn": 108,
+                    "endOffset": 8703
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 87,
+                        "startColumn": 4,
+                        "startOffset": 7397,
+                        "endColumn": 108,
+                        "endOffset": 7501
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 106,
+                    "startColumn": 4,
+                    "startOffset": 8708,
+                    "endColumn": 80,
+                    "endOffset": 8784
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 82,
+                        "startColumn": 4,
+                        "startOffset": 6829,
+                        "endColumn": 80,
+                        "endOffset": 6905
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 8789,
+                    "endColumn": 192,
+                    "endOffset": 8977
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 2474,
+                        "endColumn": 192,
+                        "endOffset": 2662
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 108,
+                    "startColumn": 4,
+                    "startOffset": 8982,
+                    "endColumn": 141,
+                    "endOffset": 9119
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 2332,
+                        "endColumn": 141,
+                        "endOffset": 2469
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 109,
+                    "startColumn": 4,
+                    "startOffset": 9124,
+                    "endColumn": 49,
+                    "endOffset": 9169
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 2230,
+                        "endColumn": 49,
+                        "endOffset": 2275
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 110,
+                    "startColumn": 4,
+                    "startOffset": 9174,
+                    "endColumn": 90,
+                    "endOffset": 9260
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 2988,
+                        "endColumn": 90,
+                        "endOffset": 3074
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 111,
+                    "startColumn": 4,
+                    "startOffset": 9265,
+                    "endColumn": 108,
+                    "endOffset": 9369
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 2667,
+                        "endColumn": 108,
+                        "endOffset": 2771
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 112,
+                    "startColumn": 4,
+                    "startOffset": 9374,
+                    "endColumn": 114,
+                    "endOffset": 9484
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 3079,
+                        "endColumn": 114,
+                        "endOffset": 3189
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 113,
+                    "startColumn": 4,
+                    "startOffset": 9489,
+                    "endColumn": 45,
+                    "endOffset": 9530
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 104,
+                        "startColumn": 4,
+                        "startOffset": 8490,
+                        "endColumn": 45,
+                        "endOffset": 8531
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 114,
+                    "startColumn": 4,
+                    "startOffset": 9535,
+                    "endColumn": 81,
+                    "endOffset": 9612
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 105,
+                        "startColumn": 4,
+                        "startOffset": 8536,
+                        "endColumn": 81,
+                        "endOffset": 8613
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 115,
+                    "startColumn": 4,
+                    "startOffset": 9617,
+                    "endColumn": 57,
+                    "endOffset": 9670
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 106,
+                        "startColumn": 4,
+                        "startOffset": 8618,
+                        "endColumn": 57,
+                        "endOffset": 8671
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 116,
+                    "startColumn": 4,
+                    "startOffset": 9675,
+                    "endColumn": 99,
+                    "endOffset": 9770
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 107,
+                        "startColumn": 4,
+                        "startOffset": 8676,
+                        "endColumn": 99,
+                        "endOffset": 8771
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 117,
+                    "startColumn": 4,
+                    "startOffset": 9775,
+                    "endColumn": 50,
+                    "endOffset": 9821
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 102,
+                        "startColumn": 4,
+                        "startOffset": 8355,
+                        "endColumn": 50,
+                        "endOffset": 8401
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 118,
+                    "startColumn": 4,
+                    "startOffset": 9826,
+                    "endColumn": 83,
+                    "endOffset": 9905
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 103,
+                        "startColumn": 4,
+                        "startOffset": 8406,
+                        "endColumn": 83,
+                        "endOffset": 8485
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 119,
+                    "startColumn": 4,
+                    "startOffset": 9910,
+                    "endColumn": 76,
+                    "endOffset": 9982
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 108,
+                        "startColumn": 4,
+                        "startOffset": 8776,
+                        "endColumn": 76,
+                        "endOffset": 8848
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 120,
+                    "startColumn": 4,
+                    "startOffset": 9987,
+                    "endColumn": 77,
+                    "endOffset": 10060
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 191,
+                        "startColumn": 4,
+                        "startOffset": 15040,
+                        "endColumn": 77,
+                        "endOffset": 15113
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 121,
+                    "startColumn": 4,
+                    "startOffset": 10065,
+                    "endColumn": 89,
+                    "endOffset": 10150
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 190,
+                        "startColumn": 4,
+                        "startOffset": 14950,
+                        "endColumn": 89,
+                        "endOffset": 15035
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 122,
+                    "startColumn": 4,
+                    "startOffset": 10155,
+                    "endColumn": 77,
+                    "endOffset": 10228
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 192,
+                        "startColumn": 4,
+                        "startOffset": 15118,
+                        "endColumn": 77,
+                        "endOffset": 15191
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 123,
+                    "startColumn": 4,
+                    "startOffset": 10233,
+                    "endColumn": 148,
+                    "endOffset": 10377
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 4469,
+                        "endColumn": 148,
+                        "endOffset": 4613
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 124,
+                    "startColumn": 4,
+                    "startOffset": 10382,
+                    "endColumn": 55,
+                    "endOffset": 10433
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 4383,
+                        "endColumn": 55,
+                        "endOffset": 4434
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 125,
+                    "startColumn": 4,
+                    "startOffset": 10438,
+                    "endColumn": 89,
+                    "endOffset": 10523
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 154,
+                        "startColumn": 4,
+                        "startOffset": 12444,
+                        "endColumn": 89,
+                        "endOffset": 12529
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 126,
+                    "startColumn": 4,
+                    "startOffset": 10528,
+                    "endColumn": 78,
+                    "endOffset": 10602
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 141,
+                        "startColumn": 4,
+                        "startOffset": 11310,
+                        "endColumn": 78,
+                        "endOffset": 11384
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 127,
+                    "startColumn": 4,
+                    "startOffset": 10607,
+                    "endColumn": 195,
+                    "endOffset": 10798
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 142,
+                        "startColumn": 4,
+                        "startOffset": 11389,
+                        "endColumn": 195,
+                        "endOffset": 11580
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 128,
+                    "startColumn": 4,
+                    "startOffset": 10803,
+                    "endColumn": 77,
+                    "endOffset": 10876
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 137,
+                        "startColumn": 4,
+                        "startOffset": 10941,
+                        "endColumn": 77,
+                        "endOffset": 11014
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 129,
+                    "startColumn": 4,
+                    "startOffset": 10881,
+                    "endColumn": 153,
+                    "endOffset": 11030
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 138,
+                        "startColumn": 4,
+                        "startOffset": 11019,
+                        "endColumn": 153,
+                        "endOffset": 11168
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 130,
+                    "startColumn": 4,
+                    "startOffset": 11035,
+                    "endColumn": 55,
+                    "endOffset": 11086
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 145,
+                        "startColumn": 4,
+                        "startOffset": 11968,
+                        "endColumn": 55,
+                        "endOffset": 12019
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 131,
+                    "startColumn": 4,
+                    "startOffset": 11091,
+                    "endColumn": 57,
+                    "endOffset": 11144
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 136,
+                        "startColumn": 4,
+                        "startOffset": 10883,
+                        "endColumn": 57,
+                        "endOffset": 10936
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 132,
+                    "startColumn": 4,
+                    "startOffset": 11149,
+                    "endColumn": 64,
+                    "endOffset": 11209
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 140,
+                        "startColumn": 4,
+                        "startOffset": 11245,
+                        "endColumn": 64,
+                        "endOffset": 11305
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 133,
+                    "startColumn": 4,
+                    "startOffset": 11214,
+                    "endColumn": 63,
+                    "endOffset": 11273
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 131,
+                        "startColumn": 4,
+                        "startOffset": 10471,
+                        "endColumn": 63,
+                        "endOffset": 10530
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 134,
+                    "startColumn": 4,
+                    "startOffset": 11278,
+                    "endColumn": 62,
+                    "endOffset": 11336
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 132,
+                        "startColumn": 4,
+                        "startOffset": 10535,
+                        "endColumn": 62,
+                        "endOffset": 10593
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 135,
+                    "startColumn": 4,
+                    "startOffset": 11341,
+                    "endColumn": 80,
+                    "endOffset": 11417
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 143,
+                        "startColumn": 4,
+                        "startOffset": 11585,
+                        "endColumn": 80,
+                        "endOffset": 11661
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 136,
+                    "startColumn": 4,
+                    "startOffset": 11422,
+                    "endColumn": 301,
+                    "endOffset": 11719
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 144,
+                        "startColumn": 4,
+                        "startOffset": 11666,
+                        "endColumn": 301,
+                        "endOffset": 11963
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 137,
+                    "startColumn": 4,
+                    "startOffset": 11724,
+                    "endColumn": 71,
+                    "endOffset": 11791
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 139,
+                        "startColumn": 4,
+                        "startOffset": 11173,
+                        "endColumn": 71,
+                        "endOffset": 11240
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 138,
+                    "startColumn": 4,
+                    "startOffset": 11796,
+                    "endColumn": 47,
+                    "endOffset": 11839
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 146,
+                        "startColumn": 4,
+                        "startOffset": 12024,
+                        "endColumn": 47,
+                        "endOffset": 12067
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 139,
+                    "startColumn": 4,
+                    "startOffset": 11844,
+                    "endColumn": 85,
+                    "endOffset": 11925
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 149,
+                        "startColumn": 4,
+                        "startOffset": 12184,
+                        "endColumn": 85,
+                        "endOffset": 12265
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 140,
+                    "startColumn": 4,
+                    "startOffset": 11930,
+                    "endColumn": 56,
+                    "endOffset": 11982
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 148,
+                        "startColumn": 4,
+                        "startOffset": 12127,
+                        "endColumn": 56,
+                        "endOffset": 12179
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 141,
+                    "startColumn": 4,
+                    "startOffset": 11987,
+                    "endColumn": 54,
+                    "endOffset": 12037
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 147,
+                        "startColumn": 4,
+                        "startOffset": 12072,
+                        "endColumn": 54,
+                        "endOffset": 12122
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 142,
+                    "startColumn": 4,
+                    "startOffset": 12042,
+                    "endColumn": 60,
+                    "endOffset": 12098
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 2169,
+                        "endColumn": 60,
+                        "endOffset": 2225
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 143,
+                    "startColumn": 4,
+                    "startOffset": 12103,
+                    "endColumn": 45,
+                    "endOffset": 12144
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1661,
+                        "endColumn": 45,
+                        "endOffset": 1702
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 144,
+                    "startColumn": 4,
+                    "startOffset": 12149,
+                    "endColumn": 120,
+                    "endOffset": 12265
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1707,
+                        "endColumn": 120,
+                        "endOffset": 1823
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 145,
+                    "startColumn": 4,
+                    "startOffset": 12270,
+                    "endColumn": 51,
+                    "endOffset": 12317
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 884,
+                        "endColumn": 51,
+                        "endOffset": 931
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 146,
+                    "startColumn": 4,
+                    "startOffset": 12322,
+                    "endColumn": 176,
+                    "endOffset": 12494
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 936,
+                        "endColumn": 176,
+                        "endOffset": 1108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 147,
+                    "startColumn": 4,
+                    "startOffset": 12499,
+                    "endColumn": 48,
+                    "endOffset": 12543
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 499,
+                        "endColumn": 48,
+                        "endOffset": 543
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 148,
+                    "startColumn": 4,
+                    "startOffset": 12548,
+                    "endColumn": 107,
+                    "endOffset": 12651
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 548,
+                        "endColumn": 107,
+                        "endOffset": 651
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 149,
+                    "startColumn": 4,
+                    "startOffset": 12656,
+                    "endColumn": 49,
+                    "endOffset": 12701
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1506,
+                        "endColumn": 49,
+                        "endOffset": 1551
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 150,
+                    "startColumn": 4,
+                    "startOffset": 12706,
+                    "endColumn": 104,
+                    "endOffset": 12806
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1556,
+                        "endColumn": 104,
+                        "endOffset": 1656
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 151,
+                    "startColumn": 4,
+                    "startOffset": 12811,
+                    "endColumn": 47,
+                    "endOffset": 12854
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 656,
+                        "endColumn": 47,
+                        "endOffset": 699
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 152,
+                    "startColumn": 4,
+                    "startOffset": 12859,
+                    "endColumn": 179,
+                    "endOffset": 13034
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 704,
+                        "endColumn": 179,
+                        "endOffset": 879
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 153,
+                    "startColumn": 4,
+                    "startOffset": 13039,
+                    "endColumn": 47,
+                    "endOffset": 13082
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1341,
+                        "endColumn": 47,
+                        "endOffset": 1384
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 154,
+                    "startColumn": 4,
+                    "startOffset": 13087,
+                    "endColumn": 116,
+                    "endOffset": 13199
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1389,
+                        "endColumn": 116,
+                        "endOffset": 1501
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 155,
+                    "startColumn": 4,
+                    "startOffset": 13204,
+                    "endColumn": 64,
+                    "endOffset": 13264
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 4318,
+                        "endColumn": 64,
+                        "endOffset": 4378
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 156,
+                    "startColumn": 4,
+                    "startOffset": 13269,
+                    "endColumn": 47,
+                    "endOffset": 13312
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 166,
+                        "startColumn": 4,
+                        "startOffset": 13388,
+                        "endColumn": 47,
+                        "endOffset": 13431
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 157,
+                    "startColumn": 4,
+                    "startOffset": 13317,
+                    "endColumn": 44,
+                    "endOffset": 13357
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1907,
+                        "endColumn": 44,
+                        "endOffset": 1947
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 158,
+                    "startColumn": 4,
+                    "startOffset": 13362,
+                    "endColumn": 231,
+                    "endOffset": 13589
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 4086,
+                        "endColumn": 231,
+                        "endOffset": 4313
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 159,
+                    "startColumn": 4,
+                    "startOffset": 13594,
+                    "endColumn": 49,
+                    "endOffset": 13639
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 2054,
+                        "endColumn": 49,
+                        "endOffset": 2099
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 160,
+                    "startColumn": 4,
+                    "startOffset": 13644,
+                    "endColumn": 191,
+                    "endOffset": 13831
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 88,
+                        "startColumn": 4,
+                        "startOffset": 7506,
+                        "endColumn": 191,
+                        "endOffset": 7693
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 161,
+                    "startColumn": 4,
+                    "startOffset": 13836,
+                    "endColumn": 123,
+                    "endOffset": 13955
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 86,
+                        "startColumn": 4,
+                        "startOffset": 7273,
+                        "endColumn": 123,
+                        "endOffset": 7392
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 162,
+                    "startColumn": 4,
+                    "startOffset": 13960,
+                    "endColumn": 109,
+                    "endOffset": 14065
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 389,
+                        "endColumn": 109,
+                        "endOffset": 494
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 163,
+                    "startColumn": 4,
+                    "startOffset": 14070,
+                    "endColumn": 113,
+                    "endOffset": 14179
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1113,
+                        "endColumn": 113,
+                        "endOffset": 1222
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 164,
+                    "startColumn": 4,
+                    "startOffset": 14184,
+                    "endColumn": 113,
+                    "endOffset": 14293
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1227,
+                        "endColumn": 113,
+                        "endOffset": 1336
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 165,
+                    "startColumn": 4,
+                    "startOffset": 14298,
+                    "endColumn": 152,
+                    "endOffset": 14446
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 83,
+                        "startColumn": 4,
+                        "startOffset": 6910,
+                        "endColumn": 152,
+                        "endOffset": 7058
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 166,
+                    "startColumn": 4,
+                    "startOffset": 14451,
+                    "endColumn": 114,
+                    "endOffset": 14561
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 85,
+                        "startColumn": 4,
+                        "startOffset": 7158,
+                        "endColumn": 114,
+                        "endOffset": 7268
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 167,
+                    "startColumn": 4,
+                    "startOffset": 14566,
+                    "endColumn": 94,
+                    "endOffset": 14656
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 84,
+                        "startColumn": 4,
+                        "startOffset": 7063,
+                        "endColumn": 94,
+                        "endOffset": 7153
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 168,
+                    "startColumn": 4,
+                    "startOffset": 14661,
+                    "endColumn": 149,
+                    "endOffset": 14806
+                },
+                "from": {
+                    "file": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/values-tr/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 194,
+                        "endColumn": 149,
+                        "endOffset": 339
+                    }
+                }
+            }
+        ]
+    }
+]

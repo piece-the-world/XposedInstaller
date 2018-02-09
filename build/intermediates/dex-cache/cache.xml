@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/taochao/WeChat/XposedInstaller/app/libs/StickyListHeaders-d7f6fc.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9a61ce5e9e47bd09d99f380ff4ff797bb8675097">
+        <dex dex="/Users/taochao/WeChat/XposedInstaller/app/build/intermediates/pre-dexed/debug/StickyListHeaders-d7f6fc_5c4a7d4405609629aa2c37bc2b83a89174de2e25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/taochao/WeChat/XposedInstaller/app/libs/AndroidHiddenAPI.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5dbc0c992033445fcce7c8e8e1fd35203d2515cc">
+        <dex dex="/Users/taochao/WeChat/XposedInstaller/app/build/intermediates/pre-dexed/debug/AndroidHiddenAPI_77608a142788ec2bf17c8e2c53b533b526cd887b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/taochao/WeChat/XposedInstaller/app/libs/libsuperuser-185868.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ea52860cada99b025c7118fe552340302116c1eb">
+        <dex dex="/Users/taochao/WeChat/XposedInstaller/app/build/intermediates/pre-dexed/debug/libsuperuser-185868_4371b8379aaec851482d662907b31e90d7493f6e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/taochao/WeChat/XposedInstaller/app/libs/android-support-v13.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="67a612e91a8c7f89536d5cf896fdfef7269a285d">
+        <dex dex="/Users/taochao/WeChat/XposedInstaller/app/build/intermediates/pre-dexed/debug/android-support-v13_42857f5b807549b0ef8d41577d4c17977bcec18d.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/taochao/WeChat/XposedInstaller/app/build/intermediates/res/merged/debug/menu/context_menu_modules.xml",
+        "source": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/menu/context_menu_modules.xml"
+    },
+    {
+        "merged": "/Users/taochao/WeChat/XposedInstaller/app/build/intermediates/res/merged/debug/menu/menu_download_details.xml",
+        "source": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/menu/menu_download_details.xml"
+    },
+    {
+        "merged": "/Users/taochao/WeChat/XposedInstaller/app/build/intermediates/res/merged/debug/menu/menu_download.xml",
+        "source": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/menu/menu_download.xml"
+    },
+    {
+        "merged": "/Users/taochao/WeChat/XposedInstaller/app/build/intermediates/res/merged/debug/menu/menu_logs.xml",
+        "source": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/menu/menu_logs.xml"
+    }
+]

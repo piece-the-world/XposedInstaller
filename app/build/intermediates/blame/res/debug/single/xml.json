@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/taochao/WeChat/XposedInstaller/app/build/intermediates/res/merged/debug/xml/prefs.xml",
+        "source": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/xml/prefs.xml"
+    },
+    {
+        "merged": "/Users/taochao/WeChat/XposedInstaller/app/build/intermediates/res/merged/debug/xml/module_prefs.xml",
+        "source": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/xml/module_prefs.xml"
+    }
+]

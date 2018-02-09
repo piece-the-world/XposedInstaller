@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/taochao/WeChat/XposedInstaller/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_notification.png",
+        "source": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/drawable-xhdpi/ic_notification.png"
+    },
+    {
+        "merged": "/Users/taochao/WeChat/XposedInstaller/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png",
+        "source": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/taochao/WeChat/XposedInstaller/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_menu_refresh.png",
+        "source": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/drawable-xhdpi/ic_menu_refresh.png"
+    }
+]

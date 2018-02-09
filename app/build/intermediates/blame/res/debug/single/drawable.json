@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/taochao/WeChat/XposedInstaller/app/build/intermediates/res/merged/debug/drawable/background_card_pressed_light.xml",
+        "source": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/drawable/background_card_pressed_light.xml"
+    },
+    {
+        "merged": "/Users/taochao/WeChat/XposedInstaller/app/build/intermediates/res/merged/debug/drawable/background_card_normal_light.xml",
+        "source": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/drawable/background_card_normal_light.xml"
+    },
+    {
+        "merged": "/Users/taochao/WeChat/XposedInstaller/app/build/intermediates/res/merged/debug/drawable/background_card_pressed_dark.xml",
+        "source": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/drawable/background_card_pressed_dark.xml"
+    },
+    {
+        "merged": "/Users/taochao/WeChat/XposedInstaller/app/build/intermediates/res/merged/debug/drawable/background_card_black.xml",
+        "source": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/drawable/background_card_black.xml"
+    },
+    {
+        "merged": "/Users/taochao/WeChat/XposedInstaller/app/build/intermediates/res/merged/debug/drawable/background_card_light.xml",
+        "source": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/drawable/background_card_light.xml"
+    },
+    {
+        "merged": "/Users/taochao/WeChat/XposedInstaller/app/build/intermediates/res/merged/debug/drawable/background_card_normal_black.xml",
+        "source": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/drawable/background_card_normal_black.xml"
+    },
+    {
+        "merged": "/Users/taochao/WeChat/XposedInstaller/app/build/intermediates/res/merged/debug/drawable/background_card_normal_dark.xml",
+        "source": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/drawable/background_card_normal_dark.xml"
+    },
+    {
+        "merged": "/Users/taochao/WeChat/XposedInstaller/app/build/intermediates/res/merged/debug/drawable/background_card_dark.xml",
+        "source": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/drawable/background_card_dark.xml"
+    },
+    {
+        "merged": "/Users/taochao/WeChat/XposedInstaller/app/build/intermediates/res/merged/debug/drawable/background_card_pressed_black.xml",
+        "source": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/drawable/background_card_pressed_black.xml"
+    }
+]

@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "/Users/taochao/WeChat/XposedInstaller/app/build/intermediates/res/merged/debug/layout/list_item_download.xml",
+        "source": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/layout/list_item_download.xml"
+    },
+    {
+        "merged": "/Users/taochao/WeChat/XposedInstaller/app/build/intermediates/res/merged/debug/layout/tab_installer.xml",
+        "source": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/layout/tab_installer.xml"
+    },
+    {
+        "merged": "/Users/taochao/WeChat/XposedInstaller/app/build/intermediates/res/merged/debug/layout/download_details.xml",
+        "source": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/layout/download_details.xml"
+    },
+    {
+        "merged": "/Users/taochao/WeChat/XposedInstaller/app/build/intermediates/res/merged/debug/layout/list_item_version.xml",
+        "source": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/layout/list_item_version.xml"
+    },
+    {
+        "merged": "/Users/taochao/WeChat/XposedInstaller/app/build/intermediates/res/merged/debug/layout/list_sticky_header_download.xml",
+        "source": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/layout/list_sticky_header_download.xml"
+    },
+    {
+        "merged": "/Users/taochao/WeChat/XposedInstaller/app/build/intermediates/res/merged/debug/layout/xposed_not_active_note.xml",
+        "source": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/layout/xposed_not_active_note.xml"
+    },
+    {
+        "merged": "/Users/taochao/WeChat/XposedInstaller/app/build/intermediates/res/merged/debug/layout/tab_logs.xml",
+        "source": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/layout/tab_logs.xml"
+    },
+    {
+        "merged": "/Users/taochao/WeChat/XposedInstaller/app/build/intermediates/res/merged/debug/layout/tab_about.xml",
+        "source": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/layout/tab_about.xml"
+    },
+    {
+        "merged": "/Users/taochao/WeChat/XposedInstaller/app/build/intermediates/res/merged/debug/layout/dialog_install_warning.xml",
+        "source": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/layout/dialog_install_warning.xml"
+    },
+    {
+        "merged": "/Users/taochao/WeChat/XposedInstaller/app/build/intermediates/res/merged/debug/layout/activity_download_details_not_found.xml",
+        "source": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/layout/activity_download_details_not_found.xml"
+    },
+    {
+        "merged": "/Users/taochao/WeChat/XposedInstaller/app/build/intermediates/res/merged/debug/layout/download_view.xml",
+        "source": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/layout/download_view.xml"
+    },
+    {
+        "merged": "/Users/taochao/WeChat/XposedInstaller/app/build/intermediates/res/merged/debug/layout/activity_download_details.xml",
+        "source": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/layout/activity_download_details.xml"
+    },
+    {
+        "merged": "/Users/taochao/WeChat/XposedInstaller/app/build/intermediates/res/merged/debug/layout/download_moreinfo.xml",
+        "source": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/layout/download_moreinfo.xml"
+    },
+    {
+        "merged": "/Users/taochao/WeChat/XposedInstaller/app/build/intermediates/res/merged/debug/layout/activity_welcome.xml",
+        "source": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/layout/activity_welcome.xml"
+    },
+    {
+        "merged": "/Users/taochao/WeChat/XposedInstaller/app/build/intermediates/res/merged/debug/layout/tab_downloader.xml",
+        "source": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/layout/tab_downloader.xml"
+    },
+    {
+        "merged": "/Users/taochao/WeChat/XposedInstaller/app/build/intermediates/res/merged/debug/layout/list_item_module.xml",
+        "source": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/layout/list_item_module.xml"
+    },
+    {
+        "merged": "/Users/taochao/WeChat/XposedInstaller/app/build/intermediates/res/merged/debug/layout/list_item_welcome.xml",
+        "source": "/Users/taochao/WeChat/XposedInstaller/app/src/main/res/layout/list_item_welcome.xml"
+    }
+]
